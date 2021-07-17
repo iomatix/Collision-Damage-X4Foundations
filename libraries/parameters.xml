@@ -4,11 +4,11 @@
     <collisiondamage minimpulse="0.15">
       <shield>
         <point position="0" value="0" />
-        <point position="200000" value="25000" />
+        <point position="200000" value="30000" />
       </shield>
       <hullshield>
         <point position="0" value="0" />
-        <point position="200000" value="60000" />
+        <point position="200000" value="65000" />
       </hullshield>
     </collisiondamage>
   </replace>
