@@ -13,6 +13,6 @@
     </collisiondamage>
   </replace>
   <replace sel="//parameters/physics/collisionstrength">
-    <collisionstrength light="0.5" medium="2.5" />
+    <collisionstrength light="0.45" medium="2.35" />
   </replace>
 </diff>
