@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <diff>
-  <replace sel="//parameters/physics/collisiondamage">
-    <collisiondamage minimpulse="0.15">
-      <shield>
-        <point position="0" value="0" />
-        <point position="200000" value="30000" />
-      </shield>
-      <hullshield>
-        <point position="0" value="0" />
-        <point position="200000" value="65000" />
-      </hullshield>
-    </collisiondamage>
-  </replace>
-  <replace sel="//parameters/physics/collisionstrength">
-    <collisionstrength light="0.35" medium="2.15" />
-  </replace>
+    <replace sel="//parameters/physics/collisiondamage">
+        <collisiondamage minimpulse="0.15">
+            <shield>
+                <point position="0" value="0" />
+                <point position="200000" value="30000" />
+            </shield>
+            <hullshield>
+                <point position="0" value="0" />
+                <point position="200000" value="65000" />
+            </hullshield>
+        </collisiondamage>
+    </replace>
+    <replace sel="//parameters/physics/collisionstrength">
+        <collisionstrength light="0.35" medium="2.15" />
+    </replace>
 </diff>
